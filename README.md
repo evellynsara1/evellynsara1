@@ -1,16 +1,15 @@
-## Hi there 👋
+## boaaaaa
 
-<!--
-**evellynsara1/evellynsara1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e evellyn sara
 
-Here are some ideas to get you started:
+- estou estudando na alura ; [Alura] (htpps://www.alura
+- estou desenvolvendo na linguaguem javaScript
+- ultilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  ### voce entrar em contato 📫
+
+-  evellynsara100@gmail.com
+
+-  @eviihzz
+
+  ![](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
