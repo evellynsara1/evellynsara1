@@ -2,7 +2,7 @@
 
 meu nome e evellyn sara
 
-- estou estudando na alura ; [Alura] (htpps://www.alura
+- estou estudando na alura ; [Alura] (htpps://www.alura.cpm.br)
 - estou desenvolvendo na linguaguem javaScript
 - ultilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
